@@ -1,8 +1,4 @@
-# 🌌 Kargi Chauhan – Generative AI Engineer, Space Enthusiast, Matcha Lover 🚀  
-
-Welcome to my GitHub universe! Here, you'll find a constellation of projects that merge cutting-edge **AI technologies**, **space exploration**, and a sprinkle of **sustainability-focused innovation**. From building scalable machine learning systems to exploring the mysteries of the cosmos through tech, I’m on a mission to make a positive impact through creativity and innovation.
-
----
+## Hi there!!  
 
 ## 🌟 About Me  
 I’m **Kargi Chauhan**, a passionate **Generative AI Engineer** with expertise in **Large Language Models (LLMs)**, **Explainable AI (XAI)**, and **AI-driven solutions**. With a degree in *Information Science* specializing in **Machine Learning and Data Science**, I bring a blend of technical rigor and creative curiosity to every project.  
@@ -59,5 +55,4 @@ I’m always open to discussing **AI**, **space exploration**, or any creative t
 
 ---
 
-### 🌟 Let’s Build the Future Together! 🌟  
-Whether you’re here to explore my projects, collaborate on innovative ideas, or simply share your passion for **AI and space**, welcome aboard! Let’s make the extraordinary happen.  
+
