@@ -1,7 +1,7 @@
- ## Hello!!!
+ ## Hi 👋, I'm Kargi 
 
 ---
-I’m **Kargi Chauhan**, a passionate **Generative AI Engineer** blending **technical rigor** with **creative curiosity** to build the future of AI. My expertise spans **Large Language Models (LLMs)**, **Explainable AI (XAI)**, and **innovative AI-driven solutions**. Armed with a degree in *Information Science* specializing in **Machine Learning and Data Science**, I thrive on crafting impactful, cutting-edge technology.  
+A passionate **Generative AI Engineer** blending **technical rigor** with **creative curiosity** to build the future of AI. My expertise spans **Large Language Models (LLMs)**, **Explainable AI (XAI)**, and **innovative AI-driven solutions**. Armed with a degree in *Information Science* specializing in **Machine Learning and Data Science**, I thrive on crafting impactful, cutting-edge technology.  
 
 When I’m not diving into code or exploring the intricacies of AI, I’m brainstorming bold new ideas—whether it’s creating apps that connect us to the stars or designing **AI systems for space exploration**.  
 
