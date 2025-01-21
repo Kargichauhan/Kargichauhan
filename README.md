@@ -5,9 +5,10 @@ A passionate **Generative AI Engineer** blending **technical rigor** with **crea
 
 When I’m not diving into code or exploring the intricacies of AI, I’m brainstorming bold new ideas—whether it’s creating apps that connect us to the stars or designing **AI systems for space exploration**.  
 
----
+
 
 ## 🚀 My Projects  
+
 A glimpse of the exciting things I’ve been working on:  
 
 ### **🌌 Beyond Stars**  
@@ -22,14 +23,14 @@ Developed AI-powered systems for small spacecraft inspectors, addressing challen
 An innovative AI platform for finding your ideal roommate, leveraging algorithms for personalization and precision.  
 [🏠 Discover](https://github.com/Kargichauhan/roommate-syncer)  
 
----
+
 
 ## 🌟 What Drives Me  
 > “At the intersection of **curiosity**, **creativity**, and **collaboration** lies innovation.”  
 
 I believe in crafting transparent, ethical, and inclusive AI, ensuring technology bridges gaps and empowers communities. Whether unlocking the mysteries of the cosmos or designing AI systems that foster human connection, my work is fueled by a passion for creating meaningful change.  
 
----
+
 
 ## 🌍 Beyond the Code  
 When I’m not busy building, here’s what keeps me inspired:  
@@ -37,7 +38,7 @@ When I’m not busy building, here’s what keeps me inspired:
 🍵 **Matcha**: Perfecting plant-based recipes and discovering new matcha blends.  
 🌱 **Sustainability**: Creating eco-conscious solutions for a brighter future.  
 
----
+
 
 ## 📬 Let’s Collaborate  
 I’d love to connect with like-minded individuals who share a passion for **AI**, **space exploration**, and creating innovative solutions.  
