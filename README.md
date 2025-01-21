@@ -27,7 +27,7 @@ An innovative AI platform for finding your ideal roommate, leveraging algorithms
 ## 🌟 What Drives Me  
 > “At the intersection of **curiosity**, **creativity**, and **collaboration** lies innovation.”  
 
-I believe in crafting **transparent**, **ethical**, and **inclusive AI**, ensuring technology bridges gaps and empowers communities. Whether it’s unlocking the mysteries of the cosmos or designing AI systems that foster human connection, my work is fueled by a passion to create meaningful change.  
+I believe in crafting transparent, ethical, and inclusive AI, ensuring technology bridges gaps and empowers communities. Whether unlocking the mysteries of the cosmos or designing AI systems that foster human connection, my work is fueled by a passion for creating meaningful change.  
 
 ---
 
