@@ -1,6 +1,6 @@
 # **Kargi Chauhan**
 
-I work on **post-training, evals, agents, and reasoning** — especially how models learn, fail, remember, and get verified.
+I work on **post-training, evals, agents, and reasoning** especially how models learn, fail, remember, and get verified.
 
 Currently:
 
